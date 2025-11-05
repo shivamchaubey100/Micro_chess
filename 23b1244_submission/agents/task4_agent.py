@@ -7,8 +7,8 @@ PIECE_VALUES = {
     0: 100, 1: 320, 2: 330, 3: 500, 4: 900, 5: 20000
 }
 
-class Task3Agent(BaseAgent):
-    def __init__(self, name="Task3Agent"):
+class Task4Agent(BaseAgent):
+    def __init__(self, name="Task4Agent"):
         super().__init__(name)
 
     def reset(self): ...
