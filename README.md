@@ -142,7 +142,7 @@ TASK-3 score: 63
 
 ## 🧾 Report Summary
 
-See [`report.tex`](report.tex) for the detailed report describing:
+See [`report.tex`](report.pdf) for the detailed report describing:
 
 * Design philosophy and algorithms for each agent
 * Heuristics and evaluation functions
